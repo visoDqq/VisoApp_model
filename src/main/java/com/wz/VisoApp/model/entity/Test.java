@@ -1,6 +1,8 @@
 package com.wz.VisoApp.model.entity;
 
 
+import com.wz.VisoApp.common.util.BaseUtil;
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Id;
